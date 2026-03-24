@@ -1,5 +1,5 @@
 ## Brady Duncan - Data Scientist
-### Northeastern University - Master of Science in Data Science Candidate (Expected June 2026)
+### Master of Science in Data Science @ Northeastern University (Expected Jun. 2025)
 #### Contact Information
 - Email: [duncan.br@northeastern.edu](mailto:duncan.br@northeastern.edu)
 - Mobile: (508) 530-1147
@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 - Deep Learning (CS7150)
 - Natural Language Processing (CS6120)
 - Data Science Capstone (DS550)
+#### Past Experience
+- Data Scientist Co-op @ MORSE Corp (Jul. 2025 - Dec. 2025)
+- Technical Data Analyst Co-op @ LineVision (Jul. 2025 - Dec. 2025)
+- Co-Founder @ Wonder Advisory - Consulting Startup (Mar. 2022 - Mar. 2023)
+- Data Science Intern @ Firm Prospects (Jun. 2021 - Aug. 2021)
+#### Past Education
+- Bachelor of Science in Data Science, Minor in Mathematics @ Northeastern University (Earned May 2025)
 #### Past Projects
 - [Loan Applicant Worthiness Model](https://github.com/bradyduncan/credit-loan-worthiness)
 - [Monopoly Deal Agent (MCTS Development)](https://github.com/Jake-Ashkenase/Monopoly_Deal_Agent)
