@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   - Data Science Capstone (DS550)
 #### Past Experience
 - Data Scientist Co-op @ MORSE Corp (Jul. 2025 - Dec. 2025)
-- Technical Data Analyst Co-op @ LineVision (Jul. 2025 - Dec. 2025)
+- Technical Data Analyst Co-op @ LineVision (Jul. 2023 - Dec. 2023)
+- Information Technology Intern @ UMass Medical School QARC (Jul. 2022 - Jun. 2023)
 - Co-Founder @ Wonder Advisory - Consulting Startup (Mar. 2022 - Mar. 2023)
 - Data Science Intern @ Firm Prospects (Jun. 2021 - Aug. 2021)
 #### Past Education
