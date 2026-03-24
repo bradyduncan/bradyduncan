@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - [Fraud Detection and Financial Decision System](https://github.com/bradyduncan/fraud-detection-and-financial-decision-system)
 - [Financial News Event Detection](https://github.com/bradyduncan/financial-news-event-detection)
 #### Education
-- Master of Science in Data Science @ Northeastern University (Expected Jun. 2025)
+- Master of Science in Data Science @ Northeastern University (Expected Jun. 2026)
   - Deep Learning (CS7150)
   - Natural Language Processing (CS6120)
   - Data Science Capstone (DS550)
-#### Past Experience
+#### Relevant Experience
 - Data Scientist Co-op @ MORSE Corp (Jul. 2025 - Dec. 2025)
 - Technical Data Analyst Co-op @ LineVision (Jul. 2023 - Dec. 2023)
 - Information Technology Intern @ UMass Medical School QARC (Jul. 2022 - Jun. 2023)
