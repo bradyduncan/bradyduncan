@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [Financial News Event Detection](https://github.com/bradyduncan/financial-news-event-detection)
 #### Education
 - Master of Science in Data Science @ Northeastern University (Expected Jun. 2026)
+  - Fundamentals of Cloud Computing (CS6620)
   - Deep Learning (CS7150)
   - Natural Language Processing (CS6120)
   - Data Science Capstone (DS550)
